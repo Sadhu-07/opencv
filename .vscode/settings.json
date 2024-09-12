@@ -1,0 +1,22 @@
+{
+    "cSpell.words": [
+        "deepface",
+        "facenet",
+        "frontalface",
+        "fullscreen",
+        "haarcascade",
+        "Haarcascades",
+        "imshow",
+        "ioff",
+        "iterrows",
+        "mtcnn",
+        "opencv",
+        "pytesseract",
+        "Tesseract",
+        "ultralytics",
+        "xywh",
+        "xyxy",
+        "YOLO",
+        "yolov"
+    ]
+}
