@@ -20,7 +20,7 @@ This repository contains a Python-based model that utilizes OpenCV and pre-train
 ### Installation:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/age-gender-expression-detection.git
+   git clone https://github.com/Sadhu-07/opencv.git
    ```
 2. Install the required dependencies:
    ```bash
